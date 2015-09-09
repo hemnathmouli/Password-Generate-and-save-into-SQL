@@ -7,6 +7,7 @@
         <title>
             Welcome <?php echo $_SESSION['uname']; ?>
         </title>
+        <link rel = "stylesheet" href = "style.css">
         <script src = "jquery.min.js"></script>
         <script src = "script.js"></script>
     </head>

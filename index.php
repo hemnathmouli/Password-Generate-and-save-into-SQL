@@ -7,7 +7,8 @@
     }else{
     ?>
     <head>
-    <title>Welcome to PassGen</title>    
+    <title>Welcome to PassGen</title>  
+        <link rel = "stylesheet" href = "style.css">
     </head>
     
     <body>

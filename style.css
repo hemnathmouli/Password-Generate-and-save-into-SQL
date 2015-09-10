@@ -16,3 +16,21 @@ input[type=submit]{
     height: 25px;
     color: white;
 }
+form{
+    width: 250px;
+    margin: 0px auto;
+    margin-top: 15%;
+}
+table{
+    margin: 0px auto;
+    margin-top: 15%;
+}
+#genrate{
+    cursor: pointer;
+    background: #286090;
+    border: 0px;
+    border-radius: 3px;
+    width: 100px;
+    height: 25px;
+    color: white;
+}
